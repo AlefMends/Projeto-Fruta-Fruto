@@ -1,1 +1,2 @@
 Olá! fiz esse projeto, que faz parte do curso de Front-end Alura, onde aprendi muito sobre estilização no CSS, responsividade, e onde foi feita uma página da "Fruta&Fruto".
+![image](https://user-images.githubusercontent.com/95005787/172529845-7977baf3-36b4-4050-a351-e49d0fa1a27b.png)
