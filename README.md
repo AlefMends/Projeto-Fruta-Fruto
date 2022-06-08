@@ -1,2 +1,2 @@
-# Projeto-Fruta-Fruto
-Projeto criado em HTML e CSS para uma "empresa" chamada "Fruta&amp;Fruto".
+Projeto-Fruta-Fruto
+Olá! fiz esse projeto, que faz parte do curso de Front-end Alura, onde aprendi muito sobre estilização no CSS, responsividade, e onde foi feita uma página da "Fruta&Fruto".
